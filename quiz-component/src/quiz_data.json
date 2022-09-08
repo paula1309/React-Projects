@@ -1,0 +1,22 @@
+{
+  "quiz_questions": [
+    {
+      "id": 1,
+      "instruction_text": "Quem pintou o quadro Mona Lisa?",
+      "answer_options": ["Michelangelo", "Leonardo Da Vinci", "Salvador Dalí", "Vincent Van Gogh"],
+      "answer": "Leonardo Da Vinci"
+    },
+    {
+      "id": 2,
+      "instruction_text": "Quem criou os personagens Mickey e Minnie Mouse?",
+      "answer_options": ["Edwin Catmull", "Steve Jobs", "Walt Disney", "Pete Docter"],
+      "answer": "Walt Disney"
+    },
+    {
+      "id": 3,
+      "instruction_text": "Quem é o autor da série literária Sítio do Picapau Amarelo?",
+      "answer_options": ["Montero Lobato", "Paulo Coelho", "Maurício de Souza", "Irmãos Grimm"],
+      "answer": "Montero Lobato"
+    }
+  ]
+}
